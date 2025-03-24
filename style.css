@@ -1,0 +1,16 @@
+#google {
+    color: springgreen;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.home-footer{
+    color: blue;
+    font-weight: bold;
+}
+body{
+    background-image: url("pexels-pixabay-69776.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
